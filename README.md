@@ -15,9 +15,10 @@
 
 <h2>Current Projects 🛠️</h2>
 <ul>
-  <li>⚡ <strong><a href="https://github.com/SwiftStorm-Studio">SwiftStorm Studio</a></strong> – Actively working with this team.</li>
-  <li>🔥 <strong><a href="https://github.com/K-Lqrs/mcef-al">mcef-al</a></strong> – An abstraction layer for <a href="https://github.com/CCBlueX/mcef">MCEF</a>.</li>
-  <li>🌱 <strong>Currently Learning:</strong> MCEF, Fabric, Java, C++</li>
+  <!-- <li>⚡ <strong><a href="https://github.com/SwiftStorm-Studio">SwiftStorm Studio</a></strong> – Actively working with this team.</li> -->
+  <!-- <li>🔥 <strong><a href="https://github.com/K-Lqrs/mcef-al">mcef-al</a></strong> – An abstraction layer for <a href="https://github.com/CCBlueX/mcef">MCEF</a>.</li> -->
+  <!-- <li>🌱 <strong>Currently Learning:</strong> MCEF, Fabric, Java, C++</li> -->
+  **I have a exam**
 </ul>
 
 ---
