@@ -1,50 +1,59 @@
-<h1 align="center">Hello everyone, welcome to my profile! 👋</h1>
+<h1 align="center">✨ Welcome to RiriFa's World! ✨</h1>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,ts,cpp,gradle,git,html,css,js&theme=dark" alt="Skills" /><br/>
+  <em>Crafting worlds with code — one line at a time.</em>
+</p>
 
-<h2>About Me 📘</h2>
-<p>Hey there! I'm a 15-year-old student from Japan 🇯🇵. I'm a hobbyist programmer who enjoys developing <strong>Minecraft server plugins</strong> and <strong>mods</strong>. 🎮</p>
+<hr/>
 
-<h3>What I Do 🚀</h3>
+<h2>🙋 About Me</h2>
+<p>
+  Yo! I'm <strong>RiriFa</strong>, a 15 y/o coder from Japan 🇯🇵 who's been messing with Minecraft since I was 3.<br/>
+  I'm deeply into modding, plugin dev, and making my own frameworks just for fun. ☕
+</p>
+
 <ul>
-  <li>🌐 <strong>Full Stack Development</strong> (Backend-leaning)</li>
-  <li>🧩 <strong>Minecraft Plugin & Mod Development</strong></li>
-  <li>💻 <strong>Desktop Application Development</strong></li>
-  <li>🏗️ <strong>Framework & Library Development</strong></li>
+  <li>🧱 Minecraft modding & plugin dev (Fabric, Kotlin, Mixin in Java only!)</li>
+  <li>☕ Drinking Coffee in my house</li>
+  <li>📚 Self-taught and always learning</li>
 </ul>
 
----
+<hr/>
 
-<h2>Current Projects 🛠️</h2>
+<h2>🚀 Ongoing Projects</h2>
 <ul>
-  <!-- <li>⚡ <strong><a href="https://github.com/SwiftStorm-Studio">SwiftStorm Studio</a></strong> – Actively working with this team.</li> -->
-  <!-- <li>🔥 <strong><a href="https://github.com/K-Lqrs/mcef-al">mcef-al</a></strong> – An abstraction layer for <a href="https://github.com/CCBlueX/mcef">MCEF</a>.</li> -->
-  <!-- <li>🌱 <strong>Currently Learning:</strong> MCEF, Fabric, Java, C++</li> -->
-  **I have a exam**
+  <li>⚡ <strong><a href="https://github.com/SwiftStorm-Studio" target="_blank">SwiftStorm Studio</a></strong> – Dev team behind awesome Minecraft stuff (some of which hasn't even been born yet 🤔)</li>
+  <li>🌀 <a href="https://github.com/ririf4/Fabricord" target="_blank">Fabricord</a> – DiscordSRV-like Fabric mod</li>
+  <li>🧪 Learning: <code>HTML</code>, <code>Minecraft Internals</code>, <code>Fabric Loom</code>, <code>Dokka</code></li>
 </ul>
 
----
+<hr/>
 
-<h2>Social Links 📬</h2>
-<ul>
-  <li>💬 <strong>Discord:</strong> <a href="https://discordapp.com/users/959721106816770088">ririf4</a></li>
-  <li>🛠️ <strong>Modrinth:</strong> <a href="https://modrinth.com/user/RiriFa">RiriFa</a></li>
-</ul>
-
----
-
-<h2>GitHub Stats 📊</h2>
+<h2>📈 GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ririf4&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ririf4&show_icons=true&theme=tokyonight&hide_border=true"/>
   <br/>
-  <img src="https://streak-stats.demolab.com?user=ririf4&theme=radical&short_numbers=true&date_format=%5BY%20%5DM%20j" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ririf4&theme=tokyonight&date_format=%5BY%5DM%20j"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ririf4&layout=compact&langs_count=10&show_icons=true&hide_border=true&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ririf4&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ririf4&theme=radical"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ririf4&theme=github-compact"/>
 </div>
 
----
+<hr/>
 
-<h2>Tech Stack 💻</h2>
+<h2>🌐 Socials</h2>
+<ul>
+  <li>💬 Discord: <a href="https://discordapp.com/users/959721106816770088" target="_blank">ririf4</a></li>
+  <li>📦 Modrinth: <a href="https://modrinth.com/user/RiriFa" target="_blank">RiriFa</a></li>
+  <li>🌍 Docs: <a href="https://docs.ririfa.net" target="_blank">docs.ririfa.net</a></li>
+</ul>
+
+<hr/>
+
+<h2>🎮 Fun Fact</h2>
+<blockquote><em>Without Minecraft, I might’ve never touched code. It all started with Redstone... and here I am writing my own rendering engine and build tools 😎</em></blockquote>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,cpp,ts,gradle,html,css,js,git&theme=dark" alt="Tech Stack"/>
+  <img src="https://komarev.com/ghpvc/?username=ririf4&style=flat-square" alt="Profile Views"/>
 </p>
