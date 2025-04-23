@@ -52,7 +52,7 @@
 <hr/>
 
 <h2>🎮 Fun Fact</h2>
-<blockquote><em>Without Minecraft, I might’ve never touched code. It all started with Redstone... and here I am writing my own rendering engine and build tools 😎</em></blockquote>
+<blockquote><em>Without Minecraft, I might’ve never touched code. It all started with Redstone... and here I am writing my own rendering engine and build tools</em></blockquote>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ririf4&style=flat-square" alt="Profile Views"/>
