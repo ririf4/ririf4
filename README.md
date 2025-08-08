@@ -8,8 +8,9 @@
 
 <h2>🙋 About Me</h2>
 <p>
-  Yo! I'm <strong>RiriFa</strong>, a 15 y/o coder from Japan 🇯🇵 who's been messing with Minecraft since I was 3.<br/>
-  I'm deeply into modding, plugin dev, and making my own frameworks just for fun. ☕
+  Yo! I'm <strong>RiriFa</strong>, a 16 y/o coder from Japan 🇯🇵 who's been messing with Minecraft since I was 3.<br/>
+  I'm deeply into modding, plugin dev, and making my own frameworks just for fun. ☕<br/>
+  <strong>I prefer crafting my own tools over just using existing ones — because by building, I learn every detail.</strong>
 </p>
 
 <ul>
