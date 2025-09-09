@@ -1,6 +1,6 @@
 <h1 align="center">✨ Welcome to RiriFa's World! ✨</h1>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,ts,cpp,gradle,git,html,css,js&theme=dark" alt="Skills" /><br/>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,ts,cpp,gradle,git&theme=dark" alt="Skills" /><br/>
   <em>Crafting worlds with code — one line at a time.</em>
 </p>
 
