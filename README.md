@@ -14,7 +14,6 @@ Self-taught developer (17, Japan) building systems from scratch — infrastructu
 
 * **[AkkaraDB](https://github.com/SwiftStorm-Studio/AkkaraDB-CXX)** (C++)
   An LSM-tree database featuring a separate WAL/Audit Log, Time-Travel queries, and Per-Field rollback.
-  * *Status:* Full rewrite in progress. MemTable achieving 2.5M ops/sec (single-threaded). JNI bridge to Kotlin planned.
 
 * **[Fabricord](https://github.com/ririf4/Fabricord)**
   Fabric mod for Discord integration (DiscordSRV alternative).
